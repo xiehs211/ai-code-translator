@@ -26,4 +26,4 @@ npm run dev
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [qq](tencent://message/?uin=1143856732).
+If you have any questions, feel free to reach out to me on [Twitter](https://x.com/fakame419977).
